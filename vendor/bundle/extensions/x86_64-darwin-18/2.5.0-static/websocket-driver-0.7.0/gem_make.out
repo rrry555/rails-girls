@@ -1,0 +1,15 @@
+current directory: /Users/iryota4/Desktop/projects/railsgirls/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/iryota4/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190527-23963-1q569s1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/iryota4/Desktop/projects/railsgirls/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/iryota4/Desktop/projects/railsgirls/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/iryota4/Desktop/projects/railsgirls/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20190527-23963-1gp70rn
